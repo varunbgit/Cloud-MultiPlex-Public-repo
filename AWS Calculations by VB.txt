@@ -1,0 +1,227 @@
+﻿AWS Calculations
+
+
+VM
+
+
+Asia Pacific Mumbai 
+Linux
+2        vCPU
+        2GB        RAM
+* 1 instances x 0.0112 USD x 730 hours in a month = 8.18 USD (monthly onDemand cost)
+* Amazon EC2 On-Demand instances (monthly): 8.18 USD
+
+
+
+
+
+
+Europe 
+Europe west 2 London
+Linux
+
+
+        2        vCPU
+        2GB        RAM
+* 1 instances x 0.0188 USD x 730 hours in a month = 13.72 USD (monthly onDemand cost)
+* Amazon EC2 On-Demand instances (monthly): 13.72 USD
+
+
+ 
+America
+US east N Virginia
+Linux
+2        vCPU
+        2GB        RAM
+* 1 instances x 0.0168 USD x 730 hours in a month = 12.26 USD (monthly onDemand cost)
+* Amazon EC2 On-Demand instances (monthly): 12.26 USD
+
+
+Africa cape town
+Linux
+2        vCPU
+        2GB        RAM
+
+
+* 1 instances x 0.0271 USD x 730 hours in a month = 19.78 USD (monthly onDemand cost)
+* Amazon EC2 On-Demand instances (monthly): 19.78 USD
+
+
+
+
+
+
+
+
+Kubernetes 
+
+
+Asia pacific Mumbai
+* 1 Clusters x 0.10 USD per hour x 730 hours per month = 73.00 USD
+* EKS Total Cost (monthly): 73.00 USD
+
+
+Europe west London
+* 1 Clusters x 0.10 USD per hour x 730 hours per month = 73.00 USD
+* EKS Total Cost (monthly): 73.00 USD
+
+
+
+
+America US east N Virginia
+* 1 Clusters x 0.10 USD per hour x 730 hours per month = 73.00 USD
+* EKS Total Cost (monthly): 73.00 USD
+
+
+
+
+Africa cape town
+
+
+* 1 Clusters x 0.10 USD per hour x 730 hours per month = 73.00 USD
+* EKS Total Cost (monthly): 73.00 USD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SQL databases
+Amazon RDS for SQL server
+
+
+Asia pacific Mumbai 
+
+
+8  vCPU
+32 GB memory 
+License included
+SQL - Standard 
+
+
+* 1 instance(s) x 5.556 USD hourly x (100 / 100 Utilized/Month) x 730 hours in a month = 4055.8800 USD (RDS for SQL Server)
+* RDS for SQL server cost (monthly): 4,055.88 USD
+Africa Cape town
+
+
+8  vCPU
+32 GB memory 
+License included
+SQL - Standard 
+* 1 instance(s) x 5.731 USD hourly x (100 / 100 Utilized/Month) x 730 hours in a month = 4183.6300 USD (RDS for SQL Server)
+* RDS for SQL server cost (monthly): 4,183.63 USD
+Europe London
+
+
+8  vCPU
+32 GB memory 
+License included
+SQL - Standard
+* 1 instance(s) x 5.502 USD hourly x (100 / 100 Utilized/Month) x 730 hours in a month = 4016.4600 USD (RDS for SQL Server)
+* RDS for SQL server cost (monthly): 4,016.46 USD
+Asia Pacific Mumbai 
+
+
+8  vCPU        32 GB memory         License included                SQL - Standard
+* 1 instance(s) x 5.556 USD hourly x (100 / 100 Utilized/Month) x 730 hours in a month = 4055.8800 USD (RDS for SQL Server)
+* RDS for SQL server cost (monthly): 4,055.88 USD
+Amazon RDS for MySQL
+Africa Cape Town
+
+
+8  vCPU
+32 GB memory 
+* 1 instance(s) x 1.799 USD hourly x (100 / 100 Utilized/Month) x 730 hours in a month = 1313.2700 USD
+* RDS MySQL cost (monthly): 1,313.27 USD
+* RDS MySQL cost (upfront): 0.00 USD
+Asia Pacific Mumbai
+8  vCPU
+32 GB memory 
+* 1 instance(s) x 1.928 USD hourly x (100 / 100 Utilized/Month) x 730 hours in a month = 1407.4400 USD
+* RDS MySQL cost (monthly): 1,407.44 USD
+Europe London
+8  vCPU
+32 GB memory 
+* 1 instance(s) x 1.584 USD hourly x (100 / 100 Utilized/Month) x 730 hours in a month = 1156.3200 USD
+* RDS MySQL cost (monthly): 1,156.32 USD
+America N.Virgina
+8  vCPU
+32 GB memory 
+* 1 instance(s) x 1.368 USD hourly x (100 / 100 Utilized/Month) x 730 hours in a month = 998.6400 USD
+* RDS MySQL cost (monthly): 998.64 USD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amazon RDS for PostgreSQL
+America N Virginia
+
+
+vCPU: 8
+Memory: 32 GiB
+* 1 instance(s) x 1.424 USD hourly x (100 / 100 Utilized/Month) x 730 hours in a month = 1039.5200 USD
+* Amazon RDS PostgreSQL instances cost (monthly): 1,039.52 USD
+
+
+Africa Cape Town
+vCPU: 8
+Memory: 32 GiB
+* 1 instance(s) x 1.875 USD hourly x (100 / 100 Utilized/Month) x 730 hours in a month = 1368.7500 USD
+* Amazon RDS PostgreSQL instances cost (monthly): 1,368.75 USD
+Asia pacific Mumbai
+vCPU: 8
+Memory: 32 GiB
+* 1 instance(s) x 2.024 USD hourly x (100 / 100 Utilized/Month) x 730 hours in a month = 1477.5200 USD
+* Amazon RDS PostgreSQL instances cost (monthly): 1,477.52 USD
+
+
+Europe London
+vCPU: 8
+Memory: 32 GiB
+* 1 instance(s) x 1.648 USD hourly x (100 / 100 Utilized/Month) x 730 hours in a month = 1203.0400 USD
+* Amazon RDS PostgreSQL instances cost (monthly): 1,203.04 USD
+
+
+
+
+
+
+
+
+
+
+Elastic IP 
+
+
+America N virginia 
+Europe London
+Asia Pacific Mumbai 
+Africa Cape Town

@@ -1,0 +1,64 @@
+Region 
+1 asia
+2europe
+3 africa
+
+GCP - https://cloud.google.com/products/calculator
+
+
+Virtual Machine
+	AZURE -  ASIA
+	
+	VM -
+			East Asia
+	Ubuntu
+	Spec: 2GB RAM, 10GB Disk - $36.50 per month
+	RedHat
+	Spec: 2GB RAM, 10GB Disk - $80.30 per month
+	Windows
+	Spec: 0.75 GB RAM, 20GB Disk - $1109.60 per month
+    Spec: 2 GB RAM, 10GB Disk - $ 1150.48 per month
+ 
+
+Storage
+
+	AZURE -  ASIA
+	East Asia
+	1GB - $1.07/per month
+	Southeast Asia
+1GB - $1.06/ per month
+
+Elastic IP
+	AZURE -  ASIA
+East Asia
+1 - $2.63/per month
+Southeast Asia
+1 - $2.63/per month
+
+Database
+
+	AZURE - ASIA
+
+	Database - SQL Storage 
+	East Asia
+Data -P- 0.173$ gb/monh
+	Log - 0.173 $ gb/month - Min $0.26 - 1.5 GB
+
+	SouthEast Asia
+Data -P- $0.138 gb/monh
+	Log - 0.138 $ gb/month - Min $0.21 - 1.5 GB
+
+
+Europe 
+
+Africa
+
+	
+Kubernetes
+
+AZURE - ASIA
+East Asia
+Linux
+Spec: 2 - Cores, 4GB RAM, 20GB Disk - $77.38/per month
+Windows
+Spec: 2 - Cores, 4GB RAM, 20GB Disk - $116.07/per month

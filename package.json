@@ -1,0 +1,22 @@
+{
+  "name": "multicloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-adarsh/MultiCloud.git"
+  },
+  "author": "Team31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-adarsh/MultiCloud/issues"
+  },
+  "homepage": "https://github.com/i-adarsh/MultiCloud#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
